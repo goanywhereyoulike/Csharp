@@ -1,0 +1,1 @@
+{"EnemyMax":5,"EnemyMin":1,"WallMax":9,"WallMin":5}
